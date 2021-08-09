@@ -1,0 +1,219 @@
+.Contact_txt {
+  background: #0A2E56;
+  background-image: -webkit-linear-gradient(top, #0A2E56, #5085D9);
+  background-image: -moz-linear-gradient(top, #0A2E56, #5085D9);
+  background-image: -ms-linear-gradient(top, #0A2E56, #5085D9);
+  background-image: -o-linear-gradient(top, #0A2E56, #5085D9);
+  background-image: -webkit-gradient(to bottom, #0A2E56, #5085D9);
+  -webkit-border-radius: 59px;
+  -moz-border-radius: 59px;
+  border-radius: 59px;
+  height: 0;
+  line-height: 0;
+  color: #FFFFFF;
+  font-family: Open Sans;
+  width: 104px;
+  font-size: 19px;
+  font-weight: 100;
+  padding: 16px;
+  -webkit-box-shadow: 0 0 22px 0 #000000;
+  -moz-box-shadow: 0 0 22px 0 #000000;
+  box-shadow: 0 0 22px 0 #000000;
+  text-shadow: -1px 0 5px #000000;
+  border: solid #337FED 0;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+.Contact_txt:hover {
+  border: solid #3B79D1 0;
+  background: #1A87C9;
+  background-image: -webkit-linear-gradient(top, #1A87C9, #043D70);
+  background-image: -moz-linear-gradient(top, #1A87C9, #043D70);
+  background-image: -ms-linear-gradient(top, #1A87C9, #043D70);
+  background-image: -o-linear-gradient(top, #1A87C9, #043D70);
+  background-image: -webkit-gradient(to bottom, #1A87C9, #043D70);
+  -webkit-border-radius: 22px;
+  -moz-border-radius: 22px;
+  border-radius: 22px;
+  text-decoration: none;
+}
+
+body {
+  background-color: #BCFFB9;
+  text-align: center;
+  margin: 0;
+  /* font-family: 'Baloo Chettan 2', cursive; dekhenge */
+  font-family: 'Gowun Dodum', sans-serif;
+  font-size: 1.25rem;
+  color: #0A1D37;
+}
+
+.name {
+  color: #1EAE98;
+  font-family: 'Sacramento', cursive;
+  margin-top: 7rem;
+  margin-bottom: 0rem;
+  font-size: 5rem;
+}
+
+.a-programmer {
+  color: #346751;
+  font-family: 'Special Elite', cursive;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  line-height: 1.2;
+}
+
+.as-Developer {
+  width: 30%;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.hello {
+  color: #005A8D;
+  margin-top: 20px;
+  margin-bottom: 2px;
+  font-family: 'Poiret One', cursive;
+}
+
+.programmer {
+  margin-top: 20px;
+  width: 200px;
+  background-color: #BCFFB9;
+  /* border-radius: 100% */
+}
+
+
+.computer {
+  width: 150px;
+  height: 150px;
+  background-color: #BCFFB9;
+  border-radius: 100%;
+  float: left;
+}
+
+.MySkill {
+  margin: auto 220px;
+}
+
+.skills {
+  color: #005A8D;
+  margin-top: 20px;
+  margin-bottom: 24px;
+  font-family: 'Poiret One', cursive;
+}
+
+.design-para {
+  width: 80%;
+  margin: 100px auto 100px auto;
+  margin-top: 10px;
+  text-align: left
+}
+
+.design {
+  font-family: 'Baloo Chettan 2', cursive;
+  margin: auto;
+  width: 80%;
+  margin-bottom: 1px;
+  text-align: left;
+}
+
+.chill {
+  width: 150px;
+  height: 150px;
+  background-color: #BCFFB9;
+  border-radius: 100%;
+  float: right;
+}
+
+.hot-chillies {
+  font-family: 'Baloo Chettan 2', cursive;
+  margin: auto;
+  width: 80%;
+  margin-bottom: 1px;
+  text-align: left;
+}
+
+.hot-chillies-para {
+  width: 80%;
+  margin: 100px auto 100px auto;
+  margin-top: 10px;
+  text-align: left
+}
+
+.get-touch {
+  color: #005A8D;
+  margin-top: 20px;
+  margin-bottom: 24px;
+  font-family: 'Poiret One', cursive;
+}
+
+.wings-love {
+  font-family: 'Baloo Chettan 2', cursive;
+}
+.contact{
+  height: 150px;
+  width: 150px;
+}
+.footer-link{
+  color: #346751;
+}
+
+.Links-account{
+  background-color: #66BFBF;
+  padding: 0px 10px 10px 0px;
+}
+.footer-link:hover{
+  color: #C70039;
+  padding: 20px
+}
+
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #A4B494;
+  border-width: 7px;
+  margin: 80px auto;
+  width: 8%;
+}
+
+.top-cloud2 {
+  position: absolute;
+  top: 20px;
+  left: 280px;
+}
+
+.top-cloud3 {
+  position: absolute;
+  top: 45px;
+  right: 440px;
+}
+
+.bottom-cloud1 {
+  position: absolute;
+  top: 180px;
+  left: 380px;
+}
+
+.bottom-cloud2 {
+  position: absolute;
+  top: 250px;
+  right: 400px;
+}
+
+.bottom-cloud3 {
+  position: absolute;
+  top: 165px;
+  right: 50px;
+}
+
+.bottom-cloud4 {
+  position: absolute;
+  top: 115px;
+  left: 50px;
+}
